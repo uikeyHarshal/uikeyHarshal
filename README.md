@@ -7,9 +7,9 @@ I enjoy turning ideas into clean, interactive user experiences and continuously 
 
 ---
 ## 🚀 About Me
-🎓 Education: B.E. in Computer Engineering, AISSMS College of Engineering, Pune (2023–Present)
-🌟 Key Skills: Friendly, collaborative, good listener, helpful, reliable
-🌐 Languages: English, Marathi, Hindi
+- 🎓 Education: B.E. in Computer Engineering, AISSMS College of Engineering, Pune (2023–Present)
+- 🌟 Key Skills: Friendly, collaborative, good listener, helpful, reliable
+- 🌐 Languages: English, Marathi, Hindi
 
 ---
 ## 🛠 Tech Stack
