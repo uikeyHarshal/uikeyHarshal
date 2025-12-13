@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harshal Uikey
 
-🎯 Frontend Developer | React Enthusiast | Internship Seeker  
+🎯 Frontend Developer | React Enthusiast 
 
 I’m a passionate frontend developer focused on building **real-world, logic-driven web applications** using **React and JavaScript**.  
 I enjoy turning ideas into clean, interactive user experiences and continuously improving my projects through iterations.
@@ -8,7 +8,7 @@ I enjoy turning ideas into clean, interactive user experiences and continuously 
 ---
 ## 🚀 About Me
 🎓 Education: B.E. in Computer Engineering, AISSMS College of Engineering, Pune (2023–Present)
-🌟 Key Skills: Friendly, collaborative, good listener, courteous, helpful, reliable
+🌟 Key Skills: Friendly, collaborative, good listener, helpful, reliable
 🌐 Languages: English, Marathi, Hindi
 
 ---
