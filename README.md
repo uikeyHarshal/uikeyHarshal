@@ -59,16 +59,6 @@ I enjoy turning ideas into clean, interactive user experiences and continuously 
 
 ---
 
-### 📊 SaaS Dashboard UI
-- Built a responsive SaaS-style dashboard using React
-- Implemented reusable components for sidebar, stats cards, and charts
-- Designed light and dark themes with collapsible sidebar
-- Focused on layout structure and UI consistency
-
-🔗 GitHub Repo: https://github.com/uikeyHarshal/saas-dashboard.git
-
----
-
 ## 🎯 What I’m Currently Doing
 - Strengthening React fundamentals
 - Building frontend-focused projects
