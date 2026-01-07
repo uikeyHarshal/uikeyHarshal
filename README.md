@@ -59,19 +59,12 @@ I enjoy turning ideas into clean, interactive user experiences and continuously 
 
 ---
 
-## 🎯 What I’m Currently Doing
+### 🎯 What I’m Currently Doing
 - Strengthening React fundamentals
 - Building frontend-focused projects
 - Preparing for frontend developer internships
 - Improving UI/UX and code readability
 
----
 
-## 📫 Connect With Me
-
-- Email: dev.harshaluikey@example.com
-- Phone: +91 9307387308
-- GitHub: You're already here! Check out my repositories below.
----
 
 ⭐ Feel free to explore my repositories and projects!
