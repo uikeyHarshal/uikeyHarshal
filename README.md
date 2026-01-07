@@ -65,6 +65,6 @@ I enjoy turning ideas into clean, interactive user experiences and continuously 
 - Preparing for frontend developer internships
 - Improving UI/UX and code readability
 
-
+---
 
 ⭐ Feel free to explore my repositories and projects!
